@@ -1,0 +1,50 @@
+.clearfix{
+    color: white;
+    justify-content: start;
+    font-size: 21px;
+    font-family: sans-serif;
+    border:  rgb(233, 222, 243) solid;
+  margin: 30px;
+  padding: auto;
+}
+
+.navbar-nav .nav-link {
+    color: rgb(57, 120, 150);
+  }
+
+#zodiacc{
+  color: rgb(194, 207, 70);
+}
+#zodiacc:hover{
+  color: blueviolet;
+  }
+
+  .navbar-nav .nav-link:hover {
+    color: blueviolet;
+  }
+
+#casita{
+  color: rgb(57, 120, 150);
+}
+#casita:hover{
+  color: blueviolet;
+}
+#ideall{
+    color: aquamarine;
+  }
+  #botonsito{
+    size: 40px;
+    color: aquamarine;
+  }
+#h1{
+    color: blueviolet;
+    align-content: center;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serifz;
+  }
+  #h1:hover{
+    color: rgb(54, 103, 143);
+  }
+#mundillo{
+  color: aquamarine;
+}
