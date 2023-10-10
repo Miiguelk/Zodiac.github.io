@@ -1,2 +1,0 @@
-# Zodiac
- codo-a-codo
